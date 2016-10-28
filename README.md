@@ -1,5 +1,5 @@
 # ponyREFRESH.js
-###Helper to control page refreshing while <i>developping</i> a web page.
+###Helper to control page refreshing while <i>developing</i> a web page.
 
 ####Call it like this:
 
