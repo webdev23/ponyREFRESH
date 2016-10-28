@@ -1,3 +1,17 @@
+/* To be called like this:
+* 
+<script
+data-seconds=5
+data-pxTOP=800
+data-scroll=1
+data-active=1
+src="https://raw.githubusercontent.com/webdev23/ponyREFRESH/master/ponyREFRESH.js">
+</script>
+* 
+* ***
+* nk | ponyhacks.com
+***/
+
 let rEFRESH
 ,in_SECONDS=document.querySelectorAll('[data-seconds]')[0].dataset.seconds
 	,pxTOP=document.querySelectorAll('[data-pxTOP]')[0].dataset.pxTOP
