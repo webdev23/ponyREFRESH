@@ -8,4 +8,4 @@
 ####data-pxTOP=800 
 ####data-scroll=1
 ####data-active=1
-####src="pwnyREFRESH.js" />
+####src="https://raw.githubusercontent.com/webdev23/ponyREFRESH/master/ponyREFRESH.js" />
