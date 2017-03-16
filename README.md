@@ -1,5 +1,6 @@
 # ponyREFRESH.js
-###Helper to control refreshing while <i>creating</i> a web page.
+### Helper to control refreshing while <i>creating</i> a web page.
+Page time refresh and vertical alignement are set on the srcipt tag attribute
 
 ####Call it like this:
 <pre>
